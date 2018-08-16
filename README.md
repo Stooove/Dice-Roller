@@ -1,4 +1,4 @@
-# Dice
+# Dice Roller
 This is a readme file for my simple 2 Dice simulator.
 
 if upon application launch the error: "no module named PIL" then use the ternminal to install pillow: pip3 install pillow
